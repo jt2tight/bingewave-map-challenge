@@ -9,7 +9,7 @@ module.exports = {
     devServer: {
         static: ['.'],
         host: '0.0.0.0',
-        //host: 'localhost',
+        // host: 'localhost',
         //sockPort: 80,
         allowedHosts: "all",
         headers: {
